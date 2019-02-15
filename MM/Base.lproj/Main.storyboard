@@ -13,7 +13,7 @@
         <!--Market View Controller-->
         <scene sceneID="Z0B-hO-J4K">
             <objects>
-                <viewController id="DGQ-OQ-eNf" userLabel="Market View Controller" sceneMemberID="viewController">
+                <viewController id="DGQ-OQ-eNf" userLabel="Market View Controller" customClass="marketViewController" customModule="MM" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="voq-6s-CUK">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="1100"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
